@@ -7,7 +7,7 @@ System.out.println("class one "+d);
 System.out.println("clas -----  one on constecter");
 System.out.println("count = "+count);
 count++;
-d=500;
+d=500; 
 
 }
     static{
