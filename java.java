@@ -8,7 +8,7 @@ class javaw{
      System.out.print("enter the length of arrys :- ");
      Scanner s = new Scanner(System.in);
      n=s.nextInt();
-     int arry1[][]=new int[n][n];
+     int arry1[][]=new int[n][n ];
      int arry2[][]=new int[n][n];
      int ans[][]=new int[n][n];
 
